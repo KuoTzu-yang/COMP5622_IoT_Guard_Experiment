@@ -1,0 +1,316 @@
+Namespace(alive_time=300, middlebox_name='Middlebox device')
+Middlebox device
+Middlebox device socket is created
+Middlebox device socket is succesfully initialized and ready.
+Middlebox device is listening...
+
+Conneted with 127.0.0.1 : 56980
+Conneted with 127.0.0.1 : 56982
+     Receiving:   72 |        1557135088.7091038 |  56980 |    NORMAL | Guard
+Conneted with 127.0.0.1 : 56984
+Conneted with 127.0.0.1 : 56986
+     Receiving:   14 |        1557135093.0940936 |  56982 |    NORMAL | Smartwatch
+     Receiving:   96 |         1557135093.665751 |  56984 |    NORMAL | Sensor
+     Receiving:   28 |        1557135094.7196844 |  56980 |    NORMAL | Guard
+     Receiving:    7 |        1557135097.9049194 |  56986 |    NORMAL | Camera
+     Receiving:   43 |        1557135098.9322145 |  56982 |    NORMAL | Smartwatch
+     Receiving:   14 |        1557135099.1886084 |  56984 |    NORMAL | Sensor
+     Receiving:   24 |        1557135101.2581868 |  56980 |    NORMAL | Guard
+     Receiving:   69 |        1557135101.9952667 |  56986 |    NORMAL | Camera
+     Receiving:   86 |        1557135103.9328759 |  56984 |    NORMAL | Sensor
+     Receiving:   27 |        1557135104.3827763 |  56982 |    NORMAL | Smartwatch
+     Receiving:   22 |        1557135106.0656273 |  56980 |    NORMAL | Guard
+     Receiving:    3 |        1557135106.3632364 |  56986 |    NORMAL | Camera
+     Receiving:   24 |        1557135109.2326288 |  56984 |    NORMAL | Sensor
+     Receiving:   96 |        1557135109.4699109 |  56980 |    NORMAL | Guard
+     Receiving:   16 |        1557135110.8793805 |  56982 |    NORMAL | Smartwatch
+     Receiving:   30 |        1557135112.3913286 |  56986 |    NORMAL | Camera
+     Receiving:   41 |        1557135113.5820916 |  56984 |    NORMAL | Sensor
+     Receiving:   30 |        1557135114.1954317 |  56980 |    NORMAL | Guard
+     Receiving:   48 |        1557135117.5922582 |  56980 |    NORMAL | Guard
+     Receiving:   32 |        1557135117.6791039 |  56982 |    NORMAL | Smartwatch
+     Receiving:   10 |         1557135118.208895 |  56986 |    NORMAL | Camera
+     Receiving:   33 |        1557135118.2964473 |  56984 |    NORMAL | Sensor
+     Receiving:   93 |        1557135121.2538338 |  56980 |    NORMAL | Guard
+     Receiving:   85 |        1557135123.0427935 |  56986 |    NORMAL | Camera
+     Receiving:   20 |          1557135123.04582 |  56982 | SENSITIVE | Smartwatch
+       Sending:   20 |          1557135123.04582 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   20 |          1557135123.04582 |  56982 | ENCRYPTED | Guard
+     Receiving:   26 |         1557135124.125137 |  56984 |    NORMAL | Sensor
+     Receiving:   35 |        1557135125.6130416 |  56980 |    NORMAL | Guard
+     Receiving:   76 |        1557135127.8730369 |  56984 |    NORMAL | Sensor
+     Receiving:   98 |         1557135127.953819 |  56986 |    NORMAL | Camera
+     Receiving:   46 |        1557135129.4659772 |  56982 | SENSITIVE | Smartwatch
+       Sending:   46 |        1557135129.4659772 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   46 |        1557135129.4659772 |  56982 | ENCRYPTED | Guard
+     Receiving:   86 |        1557135130.2762134 |  56980 |    NORMAL | Guard
+     Receiving:   79 |        1557135132.5334573 |  56986 |    NORMAL | Camera
+     Receiving:   82 |         1557135134.431913 |  56980 |    NORMAL | Guard
+     Receiving:   79 |         1557135134.797747 |  56984 |    NORMAL | Sensor
+     Receiving:   23 |         1557135135.292714 |  56982 |    NORMAL | Smartwatch
+     Receiving:   66 |        1557135138.4004462 |  56982 |    NORMAL | Smartwatch
+     Receiving:   23 |        1557135139.0098555 |  56986 |    NORMAL | Camera
+     Receiving:   75 |        1557135140.1700099 |  56980 |    NORMAL | Guard
+     Receiving:   17 |        1557135140.9050596 |  56984 |    NORMAL | Sensor
+     Receiving:   34 |          1557135142.00053 |  56982 | SENSITIVE | Smartwatch
+       Sending:   34 |          1557135142.00053 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   34 |          1557135142.00053 |  56982 | ENCRYPTED | Guard
+     Receiving:   47 |         1557135144.546155 |  56986 |    NORMAL | Camera
+     Receiving:   79 |        1557135145.4160259 |  56984 |    NORMAL | Sensor
+     Receiving:   13 |        1557135146.7167969 |  56980 |    NORMAL | Guard
+     Receiving:   26 |        1557135147.7788422 |  56982 | SENSITIVE | Smartwatch
+       Sending:   26 |        1557135147.7788422 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   26 |        1557135147.7788422 |  56982 | ENCRYPTED | Guard
+     Receiving:   59 |        1557135148.7637184 |  56986 |    NORMAL | Camera
+     Receiving:   39 |        1557135150.3677416 |  56984 |    NORMAL | Sensor
+     Receiving:   56 |        1557135152.6558506 |  56982 |    NORMAL | Smartwatch
+     Receiving:   67 |        1557135153.3280354 |  56980 |    NORMAL | Guard
+     Receiving:   63 |        1557135155.0381546 |  56986 |    NORMAL | Camera
+     Receiving:   87 |        1557135155.8171694 |  56984 |    NORMAL | Sensor
+     Receiving:   52 |         1557135157.147089 |  56982 | SENSITIVE | Smartwatch
+       Sending:   52 |         1557135157.147089 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   52 |         1557135157.147089 |  56982 | ENCRYPTED | Guard
+     Receiving:   84 |        1557135158.8091009 |  56980 |    NORMAL | Guard
+     Receiving:   76 |        1557135159.5022137 |  56986 |    NORMAL | Camera
+     Receiving:    7 |        1557135161.4663315 |  56984 |    NORMAL | Sensor
+     Receiving:   66 |        1557135162.0355618 |  56982 |    NORMAL | Smartwatch
+     Receiving:   20 |        1557135164.9426973 |  56980 |    NORMAL | Guard
+     Receiving:   88 |        1557135165.2106884 |  56986 |    NORMAL | Camera
+     Receiving:   24 |        1557135166.5001378 |  56984 |    NORMAL | Sensor
+     Receiving:   48 |        1557135167.4587681 |  56982 |    NORMAL | Smartwatch
+     Receiving:   60 |        1557135168.3440342 |  56980 |    NORMAL | Guard
+     Receiving:   46 |        1557135170.4032497 |  56986 |    NORMAL | Camera
+     Receiving:   46 |        1557135171.6651616 |  56984 |    NORMAL | Sensor
+     Receiving:    5 |         1557135172.758512 |  56980 |    NORMAL | Guard
+     Receiving:   25 |        1557135173.5143044 |  56982 | SENSITIVE | Smartwatch
+       Sending:   25 |        1557135173.5143044 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   25 |        1557135173.5143044 |  56982 | ENCRYPTED | Guard
+     Receiving:   58 |        1557135174.4610736 |  56986 |    NORMAL | Camera
+     Receiving:   69 |        1557135176.5868065 |  56984 |    NORMAL | Sensor
+     Receiving:   99 |        1557135177.5662625 |  56980 |    NORMAL | Guard
+     Receiving:    8 |         1557135177.584215 |  56986 |    NORMAL | Camera
+     Receiving:   70 |        1557135177.7008622 |  56982 |    NORMAL | Smartwatch
+     Receiving:   41 |        1557135181.5715723 |  56980 |    NORMAL | Guard
+     Receiving:   54 |         1557135182.172178 |  56984 |    NORMAL | Sensor
+     Receiving:    9 |        1557135182.4624186 |  56986 |    NORMAL | Camera
+     Receiving:   47 |         1557135183.181571 |  56982 | SENSITIVE | Smartwatch
+       Sending:   47 |         1557135183.181571 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   47 |         1557135183.181571 |  56982 | ENCRYPTED | Guard
+     Receiving:   47 |        1557135185.8756256 |  56986 |    NORMAL | Camera
+     Receiving:   17 |        1557135186.2076945 |  56980 |    NORMAL | Guard
+     Receiving:   65 |        1557135187.4070332 |  56984 |    NORMAL | Sensor
+     Receiving:   95 |         1557135188.782452 |  56982 |    NORMAL | Smartwatch
+     Receiving:   51 |         1557135189.256101 |  56980 |    NORMAL | Guard
+     Receiving:   82 |         1557135190.519701 |  56986 |    NORMAL | Camera
+     Receiving:    1 |         1557135194.151372 |  56982 | SENSITIVE | Smartwatch
+       Sending:    1 |         1557135194.151372 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   96 |         1557135194.410678 |  56984 |    NORMAL | Sensor
+     Receiving:    1 |         1557135194.151372 |  56982 | ENCRYPTED | Guard
+     Receiving:   58 |         1557135195.364058 |  56980 |    NORMAL | Guard
+     Receiving:   14 |        1557135195.7550123 |  56986 |    NORMAL | Camera
+     Receiving:   68 |        1557135198.5738673 |  56982 |    NORMAL | Smartwatch
+     Receiving:   72 |        1557135198.7329516 |  56984 |    NORMAL | Sensor
+     Receiving:   96 |        1557135199.7781975 |  56980 |    NORMAL | Guard
+     Receiving:   62 |         1557135201.163499 |  56986 |    NORMAL | Camera
+     Receiving:   17 |         1557135201.980958 |  56982 | SENSITIVE | Smartwatch
+       Sending:   17 |         1557135201.980958 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   17 |         1557135201.980958 |  56982 | ENCRYPTED | Guard
+     Receiving:   32 |        1557135203.8401754 |  56984 |    NORMAL | Sensor
+     Receiving:   36 |        1557135204.8094294 |  56980 |    NORMAL | Guard
+     Receiving:   30 |        1557135206.9231963 |  56986 |    NORMAL | Camera
+     Receiving:   39 |        1557135206.9878254 |  56982 | SENSITIVE | Smartwatch
+       Sending:   39 |        1557135206.9878254 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   39 |        1557135206.9878254 |  56982 | ENCRYPTED | Guard
+     Receiving:   19 |         1557135210.034083 |  56980 |    NORMAL | Guard
+     Receiving:   49 |        1557135210.7013998 |  56984 |    NORMAL | Sensor
+     Receiving:    8 |        1557135212.8613591 |  56982 | SENSITIVE | Smartwatch
+       Sending:    8 |        1557135212.8613591 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   98 |          1557135213.50245 |  56980 |    NORMAL | Guard
+     Receiving:   52 |        1557135213.6113544 |  56986 |    NORMAL | Camera
+     Receiving:    8 |        1557135212.8613591 |  56982 | ENCRYPTED | Guard
+     Receiving:   75 |         1557135215.190942 |  56984 |    NORMAL | Sensor
+     Receiving:   42 |        1557135218.4953384 |  56980 |    NORMAL | Guard
+     Receiving:    6 |        1557135218.7075813 |  56986 |    NORMAL | Camera
+     Receiving:   70 |         1557135218.906238 |  56984 |    NORMAL | Sensor
+     Receiving:   39 |        1557135218.9311712 |  56982 |    NORMAL | Smartwatch
+     Receiving:    2 |        1557135222.6735947 |  56986 |    NORMAL | Camera
+     Receiving:   72 |        1557135224.3182766 |  56982 | SENSITIVE | Smartwatch
+       Sending:   72 |        1557135224.3182766 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   71 |        1557135224.7332056 |  56980 |    NORMAL | Guard
+     Receiving:   23 |         1557135224.799035 |  56984 |    NORMAL | Sensor
+     Receiving:   72 |        1557135224.3182766 |  56982 | ENCRYPTED | Guard
+     Receiving:   81 |        1557135226.4345512 |  56986 |    NORMAL | Camera
+     Receiving:   57 |        1557135229.2789586 |  56986 |    NORMAL | Camera
+     Receiving:   13 |        1557135229.7514484 |  56982 | SENSITIVE | Smartwatch
+       Sending:   13 |        1557135229.7514484 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   34 |        1557135229.8272436 |  56984 |    NORMAL | Sensor
+     Receiving:   31 |        1557135229.9461198 |  56980 |    NORMAL | Guard
+     Receiving:   13 |        1557135229.7514484 |  56982 | ENCRYPTED | Guard
+     Receiving:    9 |        1557135232.7337947 |  56982 | SENSITIVE | Smartwatch
+       Sending:    9 |        1557135232.7337947 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:    9 |        1557135232.7337947 |  56982 | ENCRYPTED | Guard
+     Receiving:   19 |         1557135234.660638 |  56980 |    NORMAL | Guard
+     Receiving:   84 |        1557135235.1448493 |  56984 |    NORMAL | Sensor
+     Receiving:   65 |        1557135235.8210344 |  56986 |    NORMAL | Camera
+     Receiving:   65 |        1557135238.4389434 |  56982 |    NORMAL | Smartwatch
+     Receiving:   71 |        1557135239.6004014 |  56984 |    NORMAL | Sensor
+     Receiving:   55 |         1557135239.652249 |  56980 |    NORMAL | Guard
+     Receiving:   10 |        1557135240.7597156 |  56986 |    NORMAL | Camera
+     Receiving:    2 |        1557135243.0277104 |  56984 |    NORMAL | Sensor
+     Receiving:   78 |         1557135243.641173 |  56980 |    NORMAL | Guard
+     Receiving:   22 |        1557135245.2535644 |  56982 | SENSITIVE | Smartwatch
+       Sending:   22 |        1557135245.2535644 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   22 |        1557135245.2535644 |  56982 | ENCRYPTED | Guard
+     Receiving:   36 |         1557135248.019518 |  56986 |    NORMAL | Camera
+     Receiving:    8 |        1557135248.8852453 |  56984 |    NORMAL | Sensor
+     Receiving:   67 |         1557135248.913172 |  56980 |    NORMAL | Guard
+     Receiving:    0 |         1557135249.486762 |  56982 |    NORMAL | Smartwatch
+     Receiving:   69 |         1557135251.928349 |  56986 |    NORMAL | Camera
+     Receiving:   28 |        1557135253.4446318 |  56984 |    NORMAL | Sensor
+     Receiving:    1 |         1557135253.744066 |  56982 | SENSITIVE | Smartwatch
+       Sending:    1 |         1557135253.744066 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:    1 |         1557135253.744066 |  56982 | ENCRYPTED | Guard
+     Receiving:   73 |         1557135255.078396 |  56980 |    NORMAL | Guard
+     Receiving:   74 |        1557135257.0217192 |  56986 |    NORMAL | Camera
+     Receiving:   40 |        1557135259.6089427 |  56982 | SENSITIVE | Smartwatch
+       Sending:   40 |        1557135259.6089427 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   66 |        1557135259.7706625 |  56984 |    NORMAL | Sensor
+     Receiving:    0 |        1557135259.8947825 |  56980 |    NORMAL | Guard
+     Receiving:   40 |        1557135259.6089427 |  56982 | ENCRYPTED | Guard
+     Receiving:    1 |        1557135261.4497755 |  56986 |    NORMAL | Camera
+     Receiving:   99 |        1557135264.3807085 |  56982 | SENSITIVE | Smartwatch
+       Sending:   99 |        1557135264.3807085 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   95 |        1557135264.6511073 |  56980 |    NORMAL | Guard
+     Receiving:    7 |        1557135265.0763502 |  56984 |    NORMAL | Sensor
+     Receiving:   99 |        1557135264.3807085 |  56982 | ENCRYPTED | Guard
+     Receiving:   69 |        1557135266.0929794 |  56986 |    NORMAL | Camera
+     Receiving:   64 |         1557135268.483718 |  56980 |    NORMAL | Guard
+     Receiving:   82 |        1557135268.7920144 |  56982 | SENSITIVE | Smartwatch
+       Sending:   82 |        1557135268.7920144 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   82 |        1557135268.7920144 |  56982 | ENCRYPTED | Guard
+     Receiving:   93 |         1557135269.588579 |  56986 |    NORMAL | Camera
+     Receiving:    7 |        1557135271.2154627 |  56984 |    NORMAL | Sensor
+     Receiving:   12 |        1557135272.1303496 |  56982 |    NORMAL | Smartwatch
+     Receiving:   20 |         1557135273.120364 |  56980 |    NORMAL | Guard
+     Receiving:    2 |        1557135274.1640954 |  56986 |    NORMAL | Camera
+     Receiving:   74 |         1557135275.837274 |  56984 |    NORMAL | Sensor
+     Receiving:   51 |        1557135275.9700105 |  56980 |    NORMAL | Guard
+     Receiving:    8 |         1557135277.601831 |  56982 |    NORMAL | Smartwatch
+     Receiving:   23 |        1557135280.1442335 |  56986 |    NORMAL | Camera
+     Receiving:   99 |        1557135280.4334617 |  56980 |    NORMAL | Guard
+     Receiving:   11 |         1557135281.696716 |  56982 | SENSITIVE | Smartwatch
+       Sending:   11 |         1557135281.696716 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   13 |        1557135281.8771727 |  56984 |    NORMAL | Sensor
+     Receiving:   11 |         1557135281.696716 |  56982 | ENCRYPTED | Guard
+     Receiving:   26 |        1557135285.0485032 |  56980 |    NORMAL | Guard
+     Receiving:   78 |        1557135285.9223258 |  56986 |    NORMAL | Camera
+     Receiving:   43 |        1557135287.7212157 |  56982 | SENSITIVE | Smartwatch
+       Sending:   43 |        1557135287.7212157 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   72 |        1557135287.8887634 |  56984 |    NORMAL | Sensor
+     Receiving:   43 |        1557135287.7212157 |  56982 | ENCRYPTED | Guard
+     Receiving:   67 |        1557135290.0141368 |  56986 |    NORMAL | Camera
+     Receiving:   40 |         1557135290.283475 |  56980 |    NORMAL | Guard
+     Receiving:   56 |        1557135292.7749372 |  56982 | SENSITIVE | Smartwatch
+       Sending:   56 |        1557135292.7749372 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   56 |        1557135292.7749372 |  56982 | ENCRYPTED | Guard
+     Receiving:   67 |        1557135294.9814231 |  56984 |    NORMAL | Sensor
+     Receiving:   47 |        1557135296.3936226 |  56986 |    NORMAL | Camera
+     Receiving:   76 |        1557135298.0781972 |  56980 |    NORMAL | Guard
+     Receiving:   19 |        1557135298.5870595 |  56982 | SENSITIVE | Smartwatch
+       Sending:   19 |        1557135298.5870595 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   19 |        1557135298.5870595 |  56982 | ENCRYPTED | Guard
+     Receiving:   97 |        1557135299.8142042 |  56984 |    NORMAL | Sensor
+     Receiving:   22 |        1557135300.2086146 |  56986 |    NORMAL | Camera
+     Receiving:   85 |        1557135303.0252056 |  56980 |    NORMAL | Guard
+     Receiving:   81 |        1557135303.7406175 |  56982 | SENSITIVE | Smartwatch
+       Sending:   81 |        1557135303.7406175 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   81 |        1557135303.7406175 |  56982 | ENCRYPTED | Guard
+     Receiving:   15 |        1557135304.8994358 |  56984 |    NORMAL | Sensor
+     Receiving:   57 |        1557135305.0501635 |  56986 |    NORMAL | Camera
+     Receiving:   30 |        1557135307.4872043 |  56982 | SENSITIVE | Smartwatch
+       Sending:   30 |        1557135307.4872043 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   62 |        1557135308.2463272 |  56980 |    NORMAL | Guard
+     Receiving:   30 |        1557135307.4872043 |  56982 | ENCRYPTED | Guard
+     Receiving:   53 |         1557135309.239406 |  56984 |    NORMAL | Sensor
+     Receiving:   21 |        1557135310.8365335 |  56986 |    NORMAL | Camera
+     Receiving:   16 |        1557135312.7124388 |  56980 |    NORMAL | Guard
+     Receiving:   68 |        1557135313.1071484 |  56982 | SENSITIVE | Smartwatch
+       Sending:   68 |        1557135313.1071484 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   87 |        1557135314.0292292 |  56986 |    NORMAL | Camera
+     Receiving:   68 |        1557135313.1071484 |  56982 | ENCRYPTED | Guard
+     Receiving:   30 |         1557135314.414358 |  56984 |    NORMAL | Sensor
+     Receiving:   81 |        1557135318.0745683 |  56982 | SENSITIVE | Smartwatch
+       Sending:   81 |        1557135318.0745683 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   48 |          1557135318.78625 |  56984 |    NORMAL | Sensor
+     Receiving:   18 |        1557135318.8570259 |  56980 |    NORMAL | Guard
+     Receiving:   81 |        1557135318.0745683 |  56982 | ENCRYPTED | Guard
+     Receiving:   72 |        1557135319.4824393 |  56986 |    NORMAL | Camera
+     Receiving:   10 |        1557135321.0804918 |  56982 |    NORMAL | Smartwatch
+     Receiving:   19 |        1557135324.0154736 |  56984 |    NORMAL | Sensor
+     Receiving:   36 |        1557135324.2081375 |  56980 |    NORMAL | Guard
+     Receiving:   56 |        1557135325.1564813 |  56986 |    NORMAL | Camera
+     Receiving:   32 |        1557135326.2942746 |  56982 |    NORMAL | Smartwatch
+     Receiving:   35 |        1557135328.0687592 |  56980 |    NORMAL | Guard
+     Receiving:   46 |        1557135329.3484402 |  56984 |    NORMAL | Sensor
+     Receiving:   21 |         1557135330.851754 |  56986 |    NORMAL | Camera
+     Receiving:   70 |        1557135331.3024318 |  56982 |    NORMAL | Smartwatch
+     Receiving:   62 |        1557135331.8654866 |  56980 |    NORMAL | Guard
+     Receiving:   39 |        1557135333.5689878 |  56984 |    NORMAL | Sensor
+     Receiving:    6 |        1557135335.3923178 |  56986 |    NORMAL | Camera
+     Receiving:    5 |        1557135336.1842122 |  56982 |    NORMAL | Smartwatch
+     Receiving:   38 |         1557135336.488438 |  56980 |    NORMAL | Guard
+     Receiving:   72 |        1557135338.6837754 |  56984 |    NORMAL | Sensor
+     Receiving:   78 |        1557135339.6885195 |  56986 |    NORMAL | Camera
+     Receiving:   48 |        1557135340.2647316 |  56982 | SENSITIVE | Smartwatch
+       Sending:   48 |        1557135340.2647316 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   53 |        1557135340.5778522 |  56980 |    NORMAL | Guard
+     Receiving:   48 |        1557135340.2647316 |  56982 | ENCRYPTED | Guard
+     Receiving:   64 |         1557135342.671044 |  56984 |    NORMAL | Sensor
+     Receiving:   23 |         1557135344.853202 |  56980 |    NORMAL | Guard
+     Receiving:   59 |        1557135345.8704512 |  56982 | SENSITIVE | Smartwatch
+       Sending:   59 |        1557135345.8704512 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   72 |        1557135346.7568033 |  56986 |    NORMAL | Camera
+     Receiving:   59 |        1557135345.8704512 |  56982 | ENCRYPTED | Guard
+     Receiving:   64 |        1557135347.8129733 |  56984 |    NORMAL | Sensor
+     Receiving:   66 |         1557135350.071754 |  56980 |    NORMAL | Guard
+     Receiving:   82 |        1557135350.7930617 |  56982 |    NORMAL | Smartwatch
+     Receiving:   79 |        1557135351.0761924 |  56986 |    NORMAL | Camera
+     Receiving:   17 |        1557135353.3128295 |  56984 |    NORMAL | Sensor
+     Receiving:   92 |        1557135355.1261106 |  56982 | SENSITIVE | Smartwatch
+       Sending:   92 |        1557135355.1261106 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   51 |        1557135355.5169027 |  56980 |    NORMAL | Guard
+     Receiving:   92 |        1557135355.1261106 |  56982 | ENCRYPTED | Guard
+     Receiving:   79 |        1557135356.7718084 |  56986 |    NORMAL | Camera
+     Receiving:   24 |        1557135358.5971859 |  56984 |    NORMAL | Sensor
+     Receiving:   68 |        1557135360.5291715 |  56980 |    NORMAL | Guard
+     Receiving:   11 |        1557135361.0782032 |  56982 |    NORMAL | Smartwatch
+     Receiving:   49 |        1557135361.6217563 |  56986 |    NORMAL | Camera
+     Receiving:   20 |        1557135363.4929588 |  56984 |    NORMAL | Sensor
+     Receiving:   24 |        1557135365.7473977 |  56986 |    NORMAL | Camera
+     Receiving:   82 |         1557135365.922773 |  56980 |    NORMAL | Guard
+     Receiving:   29 |        1557135366.7078125 |  56982 | SENSITIVE | Smartwatch
+       Sending:   29 |        1557135366.7078125 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   29 |        1557135366.7078125 |  56982 | ENCRYPTED | Guard
+     Receiving:   50 |        1557135368.7226613 |  56984 |    NORMAL | Sensor
+     Receiving:   54 |         1557135370.546325 |  56980 |    NORMAL | Guard
+     Receiving:   58 |         1557135371.917668 |  56986 |    NORMAL | Camera
+     Receiving:    2 |        1557135372.5036807 |  56984 |    NORMAL | Sensor
+     Receiving:   66 |        1557135372.5595324 |  56982 |    NORMAL | Smartwatch
+     Receiving:   82 |        1557135375.9475193 |  56980 |    NORMAL | Guard
+     Receiving:   29 |        1557135376.3829782 |  56986 |    NORMAL | Camera
+     Receiving:    3 |         1557135378.047335 |  56984 |    NORMAL | Sensor
+     Receiving:   57 |        1557135378.0742598 |  56982 | SENSITIVE | Smartwatch
+       Sending:   57 |        1557135378.0742598 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   57 |        1557135378.0742598 |  56982 | ENCRYPTED | Guard
+     Receiving:    2 |        1557135380.7526894 |  56980 |    NORMAL | Guard
+     Receiving:    4 |        1557135381.2611694 |  56986 |    NORMAL | Camera
+     Receiving:   10 |         1557135382.626904 |  56984 |    NORMAL | Sensor
+     Receiving:   59 |        1557135384.3418798 |  56982 | SENSITIVE | Smartwatch
+       Sending:   59 |        1557135384.3418798 |  56982 | SENSITIVE | Smartwatch (-> Guard)
+     Receiving:   59 |        1557135384.3418798 |  56982 | ENCRYPTED | Guard
+     Receiving:   49 |        1557135385.8951843 |  56980 |    NORMAL | Guard
+     Receiving:   30 |         1557135386.465666 |  56984 |    NORMAL | Sensor
+     Receiving:   98 |        1557135386.9026828 |  56986 |    NORMAL | Camera
+     Receiving:   23 |         1557135388.815824 |  56982 |    NORMAL | Smartwatch
+     Receiving:   97 |         1557135390.993047 |  56980 |    NORMAL | Guard
+     Receiving:   54 |        1557135391.9198334 |  56984 |    NORMAL | Sensor

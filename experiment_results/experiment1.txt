@@ -1,0 +1,221 @@
+Namespace(alive_time=300, middlebox_name='Middlebox device')
+Middlebox device
+Middlebox device socket is created
+Middlebox device socket is succesfully initialized and ready.
+Middlebox device is listening...
+
+Conneted with 127.0.0.1 : 56906
+Conneted with 127.0.0.1 : 56907
+     Receiving:   78 |         1557134347.028952 |  56906 |    NORMAL | Guard
+     Receiving:   84 |        1557134350.6761613 |  56907 |    NORMAL | Camera
+Conneted with 127.0.0.1 : 56910
+     Receiving:   46 |         1557134352.528912 |  56906 |    NORMAL | Guard
+     Receiving:   36 |        1557134354.2814586 |  56910 |    NORMAL | Sensor
+     Receiving:   82 |         1557134354.838036 |  56907 |    NORMAL | Camera
+     Receiving:   82 |        1557134357.2123866 |  56906 |    NORMAL | Guard
+     Receiving:    8 |         1557134359.614096 |  56907 |    NORMAL | Camera
+     Receiving:   80 |        1557134359.9721115 |  56910 |    NORMAL | Sensor
+     Receiving:   18 |        1557134362.4952688 |  56906 |    NORMAL | Guard
+     Receiving:   85 |        1557134363.9763033 |  56910 |    NORMAL | Sensor
+     Receiving:   26 |         1557134364.532814 |  56907 |    NORMAL | Camera
+     Receiving:   26 |          1557134366.59737 |  56906 |    NORMAL | Guard
+     Receiving:   38 |        1557134368.6474774 |  56910 |    NORMAL | Sensor
+     Receiving:   99 |        1557134369.9548283 |  56907 |    NORMAL | Camera
+     Receiving:   30 |        1557134371.4070268 |  56906 |    NORMAL | Guard
+     Receiving:   81 |        1557134372.0616882 |  56910 |    NORMAL | Sensor
+     Receiving:   74 |        1557134375.4731398 |  56907 |    NORMAL | Camera
+     Receiving:   56 |         1557134377.394147 |  56906 |    NORMAL | Guard
+     Receiving:   43 |        1557134379.8591678 |  56907 |    NORMAL | Camera
+     Receiving:   19 |        1557134381.5034807 |  56906 |    NORMAL | Guard
+     Receiving:   67 |          1557134384.75381 |  56907 |    NORMAL | Camera
+     Receiving:   62 |         1557134385.626192 |  56906 |    NORMAL | Guard
+     Receiving:   83 |         1557134389.219048 |  56907 |    NORMAL | Camera
+     Receiving:   92 |        1557134390.5254796 |  56906 |    NORMAL | Guard
+     Receiving:    9 |        1557134394.3520231 |  56906 |    NORMAL | Guard
+     Receiving:   67 |        1557134395.1202912 |  56907 |    NORMAL | Camera
+     Receiving:   42 |        1557134399.2168775 |  56907 |    NORMAL | Camera
+     Receiving:   28 |         1557134399.323521 |  56906 |    NORMAL | Guard
+     Receiving:    8 |        1557134402.0620098 |  56910 |    NORMAL | Sensor
+       Warning: Detecting suspicious physcial access attack!!!
+     Receiving:   62 |        1557134403.1390662 |  56907 |    NORMAL | Camera
+     Receiving:   64 |         1557134403.142058 |  56906 |    NORMAL | Guard
+     Receiving:   98 |        1557134406.1580167 |  56910 |    NORMAL | Sensor
+     Receiving:   62 |        1557134408.9479444 |  56906 |    NORMAL | Guard
+     Receiving:   27 |        1557134409.1640697 |  56907 |    NORMAL | Camera
+     Receiving:   49 |        1557134410.7405977 |  56910 |    NORMAL | Sensor
+     Receiving:    1 |        1557134412.6777086 |  56906 |    NORMAL | Guard
+     Receiving:    6 |        1557134414.2955558 |  56907 |    NORMAL | Camera
+     Receiving:   97 |         1557134417.222348 |  56910 |    NORMAL | Sensor
+     Receiving:   52 |         1557134418.263086 |  56906 |    NORMAL | Guard
+     Receiving:   82 |          1557134420.11715 |  56907 |    NORMAL | Camera
+     Receiving:   42 |        1557134422.8676195 |  56910 |    NORMAL | Sensor
+Connection to 127.0.0.1 : 56910 is closed
+
+     Receiving:   33 |        1557134423.3782525 |  56906 |    NORMAL | Guard
+     Receiving:   39 |        1557134425.3319151 |  56907 |    NORMAL | Camera
+Conneted with 127.0.0.1 : 56918
+     Receiving:   25 |        1557134428.9476337 |  56906 |    NORMAL | Guard
+     Receiving:   93 |        1557134429.5528464 |  56907 |    NORMAL | Camera
+     Receiving:   93 |         1557134433.917751 |  56918 |    NORMAL | Sensor
+     Receiving:   54 |        1557134434.1251974 |  56906 |    NORMAL | Guard
+     Receiving:   53 |        1557134434.4290047 |  56907 |    NORMAL | Camera
+     Receiving:    3 |        1557134438.4436643 |  56907 |    NORMAL | Camera
+     Receiving:   87 |        1557134438.9452896 |  56918 |    NORMAL | Sensor
+     Receiving:   32 |        1557134439.2145667 |  56906 |    NORMAL | Guard
+     Receiving:   58 |        1557134443.3541484 |  56907 |    NORMAL | Camera
+     Receiving:    9 |        1557134443.4078448 |  56906 |    NORMAL | Guard
+     Receiving:   55 |        1557134444.0162103 |  56918 |    NORMAL | Sensor
+     Receiving:   56 |        1557134447.6168554 |  56906 |    NORMAL | Guard
+     Receiving:   56 |        1557134448.5240867 |  56918 |    NORMAL | Sensor
+     Receiving:   32 |        1557134449.4467027 |  56907 |    NORMAL | Camera
+     Receiving:   67 |        1557134452.0220292 |  56906 |    NORMAL | Guard
+     Receiving:   48 |        1557134453.0478354 |  56907 |    NORMAL | Camera
+     Receiving:   71 |         1557134453.795698 |  56918 |    NORMAL | Sensor
+     Receiving:    0 |        1557134455.8674266 |  56906 |    NORMAL | Guard
+     Receiving:   19 |        1557134457.5333726 |  56918 |    NORMAL | Sensor
+     Receiving:   55 |        1557134458.6749556 |  56907 |    NORMAL | Camera
+     Receiving:    7 |         1557134462.736415 |  56906 |    NORMAL | Guard
+     Receiving:   51 |        1557134463.1640265 |  56907 |    NORMAL | Camera
+     Receiving:   73 |        1557134464.4058092 |  56918 |    NORMAL | Sensor
+     Receiving:   30 |         1557134468.665768 |  56906 |    NORMAL | Guard
+     Receiving:   89 |         1557134468.709651 |  56907 |    NORMAL | Camera
+     Receiving:   93 |         1557134473.436059 |  56906 |    NORMAL | Guard
+     Receiving:   58 |          1557134475.89749 |  56907 |    NORMAL | Camera
+     Receiving:   48 |         1557134478.695594 |  56906 |    NORMAL | Guard
+     Receiving:   70 |         1557134480.013979 |  56907 |    NORMAL | Camera
+     Receiving:   99 |        1557134482.6789072 |  56906 |    NORMAL | Guard
+     Receiving:   50 |        1557134484.7145169 |  56907 |    NORMAL | Camera
+     Receiving:   16 |        1557134486.2221751 |  56906 |    NORMAL | Guard
+     Receiving:   88 |        1557134487.8069735 |  56907 |    NORMAL | Camera
+     Receiving:    2 |        1557134492.5547912 |  56906 |    NORMAL | Guard
+     Receiving:   57 |         1557134493.041502 |  56907 |    NORMAL | Camera
+     Receiving:   93 |        1557134494.4059732 |  56918 |    NORMAL | Sensor
+       Warning: Detecting suspicious physcial access attack!!!
+     Receiving:   79 |        1557134496.2825317 |  56906 |    NORMAL | Guard
+     Receiving:   82 |         1557134497.216321 |  56907 |    NORMAL | Camera
+     Receiving:   55 |         1557134500.706346 |  56918 |    NORMAL | Sensor
+     Receiving:   10 |        1557134501.4254491 |  56906 |    NORMAL | Guard
+     Receiving:   22 |        1557134501.8712738 |  56907 |    NORMAL | Camera
+     Receiving:    6 |         1557134505.986705 |  56918 |    NORMAL | Sensor
+Connection to 127.0.0.1 : 56918 is closed
+
+     Receiving:   41 |        1557134507.0332718 |  56906 |    NORMAL | Guard
+     Receiving:   65 |        1557134507.1856997 |  56907 |    NORMAL | Camera
+Conneted with 127.0.0.1 : 56924
+     Receiving:   22 |        1557134513.0365393 |  56907 |    NORMAL | Camera
+     Receiving:   38 |        1557134513.8988533 |  56924 |    NORMAL | Sensor
+     Receiving:   54 |        1557134514.2846541 |  56906 |    NORMAL | Guard
+     Receiving:   48 |        1557134517.4338286 |  56907 |    NORMAL | Camera
+     Receiving:   52 |        1557134519.2505755 |  56924 |    NORMAL | Sensor
+     Receiving:   20 |        1557134520.5538435 |  56906 |    NORMAL | Guard
+     Receiving:   99 |        1557134522.4529405 |  56907 |    NORMAL | Camera
+     Receiving:   24 |        1557134523.8105412 |  56924 |    NORMAL | Sensor
+     Receiving:   21 |         1557134526.696298 |  56907 |    NORMAL | Camera
+     Receiving:   16 |         1557134527.255519 |  56906 |    NORMAL | Guard
+     Receiving:   88 |        1557134528.5126202 |  56924 |    NORMAL | Sensor
+     Receiving:    4 |        1557134531.9779649 |  56907 |    NORMAL | Camera
+     Receiving:   78 |          1557134533.63205 |  56924 |    NORMAL | Sensor
+     Receiving:   87 |        1557134533.8913562 |  56906 |    NORMAL | Guard
+     Receiving:   54 |        1557134537.8456619 |  56907 |    NORMAL | Camera
+     Receiving:   32 |         1557134539.913418 |  56906 |    NORMAL | Guard
+     Receiving:   29 |         1557134542.170238 |  56907 |    NORMAL | Camera
+     Receiving:   83 |         1557134543.884917 |  56906 |    NORMAL | Guard
+     Receiving:   27 |         1557134547.153286 |  56907 |    NORMAL | Camera
+     Receiving:   78 |        1557134548.4365845 |  56906 |    NORMAL | Guard
+     Receiving:   52 |        1557134550.6157537 |  56907 |    NORMAL | Camera
+     Receiving:   82 |        1557134552.5589478 |  56906 |    NORMAL | Guard
+     Receiving:   26 |        1557134556.4284427 |  56907 |    NORMAL | Camera
+     Receiving:   38 |        1557134557.9985538 |  56906 |    NORMAL | Guard
+     Receiving:   91 |         1557134561.854841 |  56907 |    NORMAL | Camera
+     Receiving:   47 |        1557134562.4470296 |  56906 |    NORMAL | Guard
+     Receiving:   70 |        1557134563.6324382 |  56924 |    NORMAL | Sensor
+       Warning: Detecting suspicious physcial access attack!!!
+     Receiving:   37 |        1557134567.2509985 |  56906 |    NORMAL | Guard
+     Receiving:   93 |        1557134567.4952922 |  56907 |    NORMAL | Camera
+     Receiving:    6 |        1557134567.6458578 |  56924 |    NORMAL | Sensor
+     Receiving:   53 |        1557134569.5358543 |  56906 |    NORMAL | Guard
+     Receiving:   37 |        1557134572.9802074 |  56924 |    NORMAL | Sensor
+     Receiving:   34 |        1557134573.7551422 |  56907 |    NORMAL | Camera
+     Receiving:   86 |        1557134573.9396503 |  56906 |    NORMAL | Guard
+     Receiving:   39 |         1557134577.465597 |  56907 |    NORMAL | Camera
+     Receiving:   87 |         1557134577.894418 |  56924 |    NORMAL | Sensor
+     Receiving:   30 |        1557134579.2254858 |  56906 |    NORMAL | Guard
+     Receiving:    6 |         1557134582.075545 |  56907 |    NORMAL | Camera
+     Receiving:   58 |        1557134584.3026154 |  56924 |    NORMAL | Sensor
+Connection to 127.0.0.1 : 56924 is closed
+
+     Receiving:   63 |        1557134585.0949917 |  56906 |    NORMAL | Guard
+     Receiving:   34 |        1557134586.7050574 |  56907 |    NORMAL | Camera
+Conneted with 127.0.0.1 : 56925
+     Receiving:    5 |        1557134590.3121028 |  56906 |    NORMAL | Guard
+     Receiving:   58 |        1557134592.5689907 |  56907 |    NORMAL | Camera
+     Receiving:    4 |        1557134593.1205149 |  56925 |    NORMAL | Sensor
+     Receiving:   70 |        1557134594.5600448 |  56906 |    NORMAL | Guard
+     Receiving:   60 |         1557134596.998478 |  56925 |    NORMAL | Sensor
+     Receiving:    8 |         1557134598.423995 |  56907 |    NORMAL | Camera
+     Receiving:   27 |        1557134601.2829063 |  56906 |    NORMAL | Guard
+     Receiving:   27 |        1557134601.8435972 |  56925 |    NORMAL | Sensor
+     Receiving:   99 |        1557134605.3439546 |  56907 |    NORMAL | Camera
+     Receiving:   87 |        1557134605.4212284 |  56906 |    NORMAL | Guard
+     Receiving:   88 |        1557134610.3052304 |  56906 |    NORMAL | Guard
+     Receiving:   92 |        1557134610.7460852 |  56907 |    NORMAL | Camera
+     Receiving:    9 |         1557134615.775958 |  56906 |    NORMAL | Guard
+     Receiving:   70 |         1557134617.098019 |  56907 |    NORMAL | Camera
+     Receiving:   96 |         1557134619.385151 |  56906 |    NORMAL | Guard
+     Receiving:   62 |        1557134621.7337189 |  56907 |    NORMAL | Camera
+     Receiving:   81 |        1557134624.0897906 |  56906 |    NORMAL | Guard
+     Receiving:   92 |         1557134627.564402 |  56907 |    NORMAL | Camera
+     Receiving:   25 |        1557134628.0192163 |  56906 |    NORMAL | Guard
+     Receiving:   69 |        1557134631.5699215 |  56907 |    NORMAL | Camera
+     Receiving:   60 |        1557134631.8439598 |  56925 |    NORMAL | Sensor
+       Warning: Detecting suspicious physcial access attack!!!
+     Receiving:   61 |        1557134634.7273185 |  56906 |    NORMAL | Guard
+     Receiving:   78 |          1557134636.44628 |  56907 |    NORMAL | Camera
+     Receiving:   88 |         1557134637.468511 |  56925 |    NORMAL | Sensor
+     Receiving:   68 |         1557134639.642802 |  56925 |    NORMAL | Sensor
+     Receiving:   11 |         1557134640.233558 |  56906 |    NORMAL | Guard
+     Receiving:   69 |        1557134640.9266448 |  56907 |    NORMAL | Camera
+     Receiving:   15 |         1557134642.157365 |  56906 |    NORMAL | Guard
+     Receiving:   21 |        1557134644.6873262 |  56925 |    NORMAL | Sensor
+     Receiving:   91 |         1557134647.139498 |  56925 |    NORMAL | Sensor
+     Receiving:   69 |        1557134647.2631829 |  56907 |    NORMAL | Camera
+     Receiving:   82 |        1557134647.9404328 |  56906 |    NORMAL | Guard
+     Receiving:   18 |        1557134651.9112256 |  56925 |    NORMAL | Sensor
+     Receiving:   39 |         1557134652.010765 |  56907 |    NORMAL | Camera
+     Receiving:   76 |        1557134654.3474953 |  56906 |    NORMAL | Guard
+     Receiving:   35 |        1557134657.9786975 |  56907 |    NORMAL | Camera
+     Receiving:    3 |        1557134658.2281103 |  56925 |    NORMAL | Sensor
+Connection to 127.0.0.1 : 56925 is closed
+
+     Receiving:   41 |        1557134659.8321352 |  56906 |    NORMAL | Guard
+     Receiving:   84 |         1557134661.534485 |  56907 |    NORMAL | Camera
+Conneted with 127.0.0.1 : 56929
+     Receiving:   36 |        1557134665.8233125 |  56906 |    NORMAL | Guard
+     Receiving:   33 |        1557134666.0197544 |  56907 |    NORMAL | Camera
+     Receiving:   24 |        1557134669.9469285 |  56906 |    NORMAL | Guard
+     Receiving:   34 |         1557134670.532015 |  56929 |    NORMAL | Sensor
+     Receiving:   55 |         1557134670.709511 |  56907 |    NORMAL | Camera
+     Receiving:   72 |         1557134674.940121 |  56906 |    NORMAL | Guard
+     Receiving:   49 |        1557134676.0512657 |  56907 |    NORMAL | Camera
+     Receiving:   69 |         1557134677.048327 |  56929 |    NORMAL | Sensor
+     Receiving:   13 |         1557134679.444174 |  56906 |    NORMAL | Guard
+     Receiving:   11 |        1557134681.6167946 |  56929 |    NORMAL | Sensor
+     Receiving:   72 |         1557134681.670682 |  56907 |    NORMAL | Camera
+     Receiving:   69 |        1557134683.8752263 |  56906 |    NORMAL | Guard
+     Receiving:   49 |        1557134686.6996536 |  56907 |    NORMAL | Camera
+     Receiving:   31 |        1557134687.5589662 |  56929 |    NORMAL | Sensor
+     Receiving:   35 |        1557134689.0998745 |  56906 |    NORMAL | Guard
+     Receiving:   61 |        1557134692.4646428 |  56907 |    NORMAL | Camera
+     Receiving:   63 |         1557134692.471622 |  56929 |    NORMAL | Sensor
+     Receiving:   53 |        1557134693.8357515 |  56906 |    NORMAL | Guard
+     Receiving:   26 |         1557134696.784168 |  56929 |    NORMAL | Sensor
+     Receiving:   91 |        1557134697.6605349 |  56907 |    NORMAL | Camera
+     Receiving:   49 |        1557134697.9047954 |  56906 |    NORMAL | Guard
+     Receiving:   53 |         1557134699.191293 |  56929 |    NORMAL | Sensor
+     Receiving:   50 |        1557134703.5040183 |  56929 |    NORMAL | Sensor
+     Receiving:   30 |        1557134703.6617572 |  56906 |    NORMAL | Guard
+     Receiving:   86 |        1557134705.2460842 |  56907 |    NORMAL | Camera
+     Receiving:   34 |        1557134708.6953998 |  56906 |    NORMAL | Guard
+     Receiving:   97 |         1557134709.662184 |  56907 |    NORMAL | Camera
+     Receiving:    4 |        1557134713.0632732 |  56907 |    NORMAL | Camera
+     Receiving:   20 |        1557134714.5914967 |  56906 |    NORMAL | Guard
