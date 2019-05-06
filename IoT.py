@@ -155,11 +155,13 @@ inst1 = IoT(args)
 inst1.communicate_with_middlebox()
 
 
+
 # Step 2
-# go, go, go lots of experiments  
+# go, go, go lots of experiments
+# write down some experiments design on google doc  
 
 # Step 3
-# write a functionality which can record the log of the server 
+# write a functionality which can record the log of the server (SOLVED)
 # draw from experiments 
 
 # Extra:

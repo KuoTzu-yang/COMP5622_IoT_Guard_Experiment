@@ -50,13 +50,6 @@ class Middlebox():
         print('Receiving:'.rjust(15), replaced_msg)
 
     def clientthread(self, conn, addr):
-        # write counteraction 1, 2, 3 in this function 
-        # counteraction 1 (completed)
-        # counteraction 2 (completed)
-        # counteraction 3 ()
-
-        count = 0
-
         # TYPE 1
         last_time_point = time.time()
         current_time_point = None 
@@ -70,6 +63,9 @@ class Middlebox():
                 if not data:
                     break
                 data_msg = data.decode()
+                if len(data_msg) > 75:
+                    continue
+                
                 print('Receiving:'.rjust(15), data_msg)
 
                 # TYPE 2
@@ -113,12 +109,10 @@ class Middlebox():
         self.turn_off()
 
     def print_detect_physical_access_attack(self):
-        for i in range(10):
-            print('Warning:'.rjust(15), 'Detecting suspicious physcial access attack!!!')     
+        print('Warning:'.rjust(15), 'Detecting suspicious physcial access attack!!!')     
 
     def print_detect_IoT_DDoS(self):
-        for i in range(10):
-            print('Warning:'.rjust(15), 'Detecting suspicious IoT-DDoS attack!!!')           
+        print('Warning:'.rjust(15), 'Detecting suspicious IoT-DDoS attack!!!')           
         
 parser = argparse.ArgumentParser(description='Middlebox instance creation')
 parser.add_argument('--middlebox-name', type=str, default='Middlebox device', metavar='name',
