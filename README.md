@@ -1,4 +1,4 @@
-# COMP5622_IoT_Guard_Experiment
+# HKUST COMP5622 Project
 
 This repository aims for faciliate experiments related to IoT security. We would like to verify the effectiveness of the proposed solution. 
 
