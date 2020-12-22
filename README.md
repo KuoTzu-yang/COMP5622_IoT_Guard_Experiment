@@ -1,6 +1,6 @@
 # HKUST COMP5622 Project
 
-This repository aims for faciliate experiments related to IoT security. We would like to verify the effectiveness of the proposed solution. 
+This repository aims for faciliate experiments related to IoT security, which verifies the effectiveness of the proposed solution. 
 
 ## Proposed solution 
 ----------------
@@ -10,32 +10,33 @@ The intuition is that a desirable solution should satisfy both trust-free and no
 
 ## Basic principle and explanations
 ----------------
-a. This model leverages aggregated traffic information (ATI for short) via the gateway. ATI represents the overall traffic situation among the local topology, which is extremely helpful against attacks like IoT-DDoS. 
+* This model leverages aggregated traffic information (ATI for short) via the gateway. ATI represents the overall traffic situation among the local topology, which is extremely helpful against attacks like IoT-DDoS. 
 
-b. Among IoT devices, some of IoT devices like laptops and phones possess more computational capability than the others, let’s call them guards. By leveraging the computational capability of guards, the local IoT system no longer needs to communicate with a remote third-party.
+* Among IoT devices, some of IoT devices like laptops and phones possess more computational capability than the others, let’s call them guards. By leveraging the computational capability of guards, the local IoT system no longer needs to communicate with a remote third-party.
 
-c. With sufficient computational capability, guards can perform security detection algorithm for IoT-DDoS and other cyber attacks on IoT devices, either for individual IoT transmission packet or the entire local IoT system. If guard perceives any abnormal situation, it will respond with a corresponding instruction to the gateway, in which instruction will be further separated into actions for each IoT devices. Otherwise, guards will simply wait for another ATI.
+* With sufficient computational capability, guards can perform security detection algorithm for IoT-DDoS and other cyber attacks on IoT devices, either for individual IoT transmission packet or the entire local IoT system. If guard perceives any abnormal situation, it will respond with a corresponding instruction to the gateway, in which instruction will be further separated into actions for each IoT devices. Otherwise, guards will simply wait for another ATI.
 
-d. The number of guards can vary. Essentially, one guard is enough. Adding more guards can improve the overall performance of the local IoT system. 
+* The number of guards can vary. Essentially, one guard is enough. Adding more guards can improve the overall performance of the local IoT system. 
 
-e. For most of IoT devices expect guards, there is no modification imposed on them. These IoT devices are not aware of the added security protection.  
+* For most of IoT devices expect guards, there is no modification imposed on them. These IoT devices are not aware of the added security protection.  
 
-f. Different local IoT systems do not use the same cloud center for executing the security algorithm. For each local IoT system, they select local IoT devices as guards and leverage the computational capability of guards. Therefore, this solution is not restricted to the scalability issue. 
+* Different local IoT systems do not use the same cloud center for executing the security algorithm. For each local IoT system, they select local IoT devices as guards and leverage the computational capability of guards. Therefore, this solution is not restricted to the scalability issue. 
    
-Configuration
+Main Dependency 
 ----------------
   Python: 3.6.7  
   NumPy: 1.14.2 
 
 References
 ----------------
-  Uzair Javaid, Ang Kiang Siang, Muhammad Naveed Aman, Biplab Sikdar <br/>
-  Mitigating IoT device based DDoS Attacks using Blockchain, Cryblock, MobiSys ‘18, Munich, Germany <br/>
-  https://www.ece.nus.edu.sg/stfpage/bsikdar/papers/cryblock_18.pdf <br/>
+   [1] U. Javaid, A. K. Siang, M. N. Aman, and B. Sikdar, ‘‘Mitigating loT
+   device based DDoS attacks using blockchain,’’ in Proc. 1st Workshop
+   Cryptocurrencies Blockchains Distrib. Syst., 2018, pp. 71–76 <br/>
+   [2] K. Bhardwaj, J. C. Miranda, and A. Gavrilovska,
+   “Towards IoT-DDoS prevention using edge
+   computing,” in Proc. USENIX Workshop Hot Topics
+   Edge Comput. (HotEdge 18), 2018.<br/>
   
-  Bhardwaj, Ketan & Chung M., Joaquin F. & Gavrilovska, Ada. (2018) <br/>
-  Towards IoT DDoS Prevention Using Edge Computing <br/>
-  https://www.usenix.org/system/files/conference/hotedge18/hotedge18-papers-bhardwaj.pdf <br/>
-
-  salarn/OPENRP GitHub repository, Wifi Direct API <br/>
-  https://github.com/salarn/OPENRP <br/>
+GitHub Repo. 
+----------------
+   OPENRP https://github.com/salarn/OPENRP 
